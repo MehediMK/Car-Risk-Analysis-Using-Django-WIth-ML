@@ -1,0 +1,18 @@
+*{
+	color:red;
+}
+h3{
+	text-align:center;
+	color:blue;
+}
+form{
+	display: flex;
+	align-content: center;
+	justify-content: center;
+}
+p{
+	text-align: center;
+}
+b{
+	color:blue;
+}
