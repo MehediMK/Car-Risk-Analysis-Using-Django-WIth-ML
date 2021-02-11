@@ -6,11 +6,4 @@ Car Speed Risk Analysis Prediction Using Linear Regression Machine Learning with
 1. First of all install Python 3.8 or avobe
 2. Now go to the project directory
 4. Open cmd go to the Project directory
-5. Than you need to install all library from requirements.txt file 
-> pip install -r requirements.txt <br>
-
-(Note: You need to Internet connection)
-
-6. Now write this command on CMD from below:
-> python manage.py runserver
-
+5. Than you need to install all library from requirements.txt file
