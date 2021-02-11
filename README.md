@@ -18,6 +18,6 @@ Car Speed Risk Analysis Prediction Using Linear Regression Machine Learning with
 
 
 <details> 
-  <summary>@MehediMK</summary>
+  <summary>@MehediMK 👋✍</summary>
   <p>Thank you!</p>
 </details>
