@@ -1,5 +1,10 @@
+<details> 
+  <summary>
 # Car-Risk-Analysis-Using-Django-WIth-ML
-Car Speed Risk Analysis Prediction Using Linear Regression Machine Learning with Django
+  </summary>
+  <p>Car Speed Risk Analysis Prediction Using Linear Regression Machine Learning with Django</p>
+</details>
+
 
 # How to Run this Project
 
