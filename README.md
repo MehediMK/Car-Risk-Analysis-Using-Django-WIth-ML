@@ -1,7 +1,6 @@
-<details> 
-  <summary><h2 align='center'> Car-Risk-Analysis-Using-Django-WIth-ML</h1></summary>
-  <p>Car Speed Risk Analysis Prediction Using Linear Regression Machine Learning with Django</p>
-</details>
+<h2 align='center'> Car-Risk-Analysis-Using-Django-WIth-ML</h1>
+<p align='center'>Car Speed Risk Analysis Prediction Using Linear Regression Machine Learning with Django</p>
+
 
 
 # How to Run this Project
